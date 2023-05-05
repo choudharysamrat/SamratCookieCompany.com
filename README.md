@@ -1,2 +1,2 @@
 # SamratCookieCompany.com
-Learning how to use Git commands and how to upload it to Github repository 
+Learning how to use Git commands in local machine and how to upload it to Github repository 
